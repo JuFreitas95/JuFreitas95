@@ -1,6 +1,6 @@
 Olá 👋
 
-Eu sou a Juliana Freitas, Desenvolvedora Web | Analista de Sistema
+Eu sou a Juliana Freitas, Desenvolvedora Web | Analista de Sistema <br>
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=w" alt="html-logo"/>
 <br>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo"/> 
