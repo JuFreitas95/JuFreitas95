@@ -1,6 +1,6 @@
 Olá 👋
 
-Eu sou Juliana Freitas, Desenvolvedora Front-End | Analista de Sistema <br>
+Eu sou Juliana Freitas, Desenvolvedora Front-End <br>
 <br>
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=w" alt="html-logo"/>
 <br>
