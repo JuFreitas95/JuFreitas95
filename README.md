@@ -10,8 +10,4 @@ Eu sou Juliana Freitas, Desenvolvedora Front-End <br>
 <br>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-logo">
 
-![Juliana stats](https://github-readme-stats.vercel.app/api?username=JuFreitas95&show_icons=true&theme=radical)
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuFreitas95&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
