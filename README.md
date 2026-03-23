@@ -8,9 +8,9 @@
 ---
 
 ## 👩‍💻 Sobre mim
-💡 Desenvolvedora focada em criação de interfaces modernas e responsivas  
-📚 Estudando constantemente novas tecnologias  
-🎯 Objetivo: evoluir como desenvolvedora e crescer na área de tecnologia  
+💻 Desenvolvedora em formação, proativa e focada em crescimento contínuo.  
+🚀 Experiência com HTML, CSS, JavaScript e React, evoluindo para Full Stack com Node.js, TypeScript e automações com IA.  
+🎯 Objetivo: construir uma carreira sólida em tecnologia, com evolução constante e foco em resultados.
 
 ---
 
