@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=FF69B4&size=25&center=true&vCenter=true&width=1000&lines=Desenvolvedora+Front-End;Apaixonada+por+tecnologia;Sempre+aprendendo+algo+novo">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=25&center=true&vCenter=true&width=1000&lines=Desenvolvedora+Front-End;Apaixonada+por+tecnologia;Sempre+aprendendo+algo+novo">
 </p>
 
 ---
@@ -10,7 +10,6 @@
 ## 👩‍💻 Sobre mim
 💡 Desenvolvedora focada em criação de interfaces modernas e responsivas  
 📚 Estudando constantemente novas tecnologias  
-🚀 Atualmente aprendendo React, Node.js e TypeScript  
 🎯 Objetivo: evoluir como desenvolvedora e crescer na área de tecnologia  
 
 ---
