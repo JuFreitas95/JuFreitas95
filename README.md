@@ -47,7 +47,7 @@
 
 ## 🌐 Conecte-se comigo
 <p align="center">
-  <a href="SEU_LINKEDIN_AQUI">
+  <a href="https://www.linkedin.com/in/ju-freitas/">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
