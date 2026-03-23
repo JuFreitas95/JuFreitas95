@@ -1,7 +1,5 @@
 <img src="https://github.com/JuFreitas95/JuFreitas95/blob/main/ChatGPT%20Image%2023%20de%20mar.%20de%202026,%2016_28_14.png?raw=true" />
 
-<h1 align="center">Juliana 👩‍💻</h1>
-<h3 align="center">Desenvolvedora Front End</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=FF69B4&size=25&center=true&vCenter=true&width=1000&lines=Desenvolvedora+Front-End;Apaixonada+por+tecnologia;Sempre+aprendendo+algo+novo">
