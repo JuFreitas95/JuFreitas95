@@ -8,9 +8,14 @@
 ---
 
 ## 👩‍💻 Sobre mim
-💻 Desenvolvedora em formação, proativa e focada em crescimento contínuo.  
-🚀 Experiência com HTML, CSS, JavaScript e React, evoluindo para Full Stack com Node.js, TypeScript e automações com IA.  
-🎯 Objetivo: construir uma carreira sólida em tecnologia, com evolução constante e foco em resultados.
+Desenvolvedora em formação, com foco em Frontend e evolução para Fullstack. Tenho perfil proativo, organizado e orientado à prática, sempre aplicando meus conhecimentos em projetos reais.
+
+💻 Tecnologias: HTML, CSS, JavaScript e React
+📚 Em evolução: TypeScript, Node.js e automações com IA (N8N)
+
+Atualmente curso Análise e Desenvolvimento de Sistemas e sigo em formação Full Stack, fortalecendo minha base técnica e estratégica.
+
+🎯 Busco uma oportunidade de estágio ou vaga júnior para contribuir com o time, evoluir tecnicamente e gerar valor através da tecnologia.
 
 ---
 
