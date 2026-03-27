@@ -5,66 +5,30 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=25&center=true&vCenter=true&width=1000&lines=Desenvolvedora+Front-End;Apaixonada+por+tecnologia;Sempre+aprendendo+algo+novo">
 </p>
 
- 👋 Olá, eu sou a Ju Freitas
+👋 Olá, eu sou a Ju Freitas
 
-💻 Desenvolvedora em formação, com foco em Frontend e evolução para Full Stack.
+💻 Desenvolvedora Frontend em formação, com experiência prática em projetos reais, integração com APIs, automações e sistemas interativos.
 
-Sou movida por aprendizado contínuo, disciplina e prática. Venho construindo minha jornada na tecnologia com projetos que mostram desde minha base até aplicações mais completas com integração, automação e soluções reais.
+🚀 Focada em evoluir para Full Stack e construir soluções com impacto real.
 
 
+ 🧠 Evolução na programação
+Comecei com projetos básicos de HTML, CSS e JavaScript e evoluí para aplicações com integração de APIs, comunicação em tempo real e soluções voltadas para negócio.
 
- 🚀 Sobre mim
+ 💼 Experiência prática
 
-* 📚 Estudando HTML, CSS, JavaScript e React
-* 🚀 Iniciando com TypeScript, Node.js e Inteligência Artificial
-* 🌍 Estudando inglês para oportunidades globais
-* 🎯 Foco em crescer de desenvolvedora júnior até posições de liderança em tecnologia
-
----
-
-## 🧠 Minha trajetória
-
-Minha evolução na programação:
-
-* 🎨 Primeiro contato com programação (criação de interface e estrutura)
-* 🍎 Início com JavaScript e manipulação de DOM
-* 📝 Desenvolvimento de lógica com To-do List
-* 🍔 Manipulação de dados com map, filter e reduce
-* 💱 Integração com APIs (conversor de moedas)
-* 🌦️ Aplicação com API e interface dinâmica (previsão do tempo)
-* 💬 Chat em tempo real com WebSocket
-* 🤖 Automação com IA (atendente virtual)
-* ⚡ Projeto real com cliente (captação de leads + painel admin + automação)
+- ⚡ Desenvolvimento de sistema para cliente real (captação de leads + painel admin + automação)
+- 💬 Chat em tempo real com WebSocket
+- 🤖 Automação com IA para atendimento virtual
+- 🌦️ Aplicação com consumo de API e interface dinâmica
 
 ---
 
-## 🧩 Projetos em destaque
+## 🛠️ Tecnologias
 
-* ⚡ Sistema para cliente real com captação de leads e painel administrativo
-* 🤖 Automação com IA para atendimento virtual
-* 💬 Chat em tempo real com WebSocket
-* 🌦️ Aplicação com consumo de API e interface dinâmica
-
----
-
- 🛠️ Tecnologias
-
-* HTML
-* CSS
-* JavaScript
-* React (em evolução)
-* Firebase
-* WebSocket
-* Integração com APIs
-* Automação com IA
-
----
-
- 🎯 Objetivo
-
-Construir uma carreira sólida na área de tecnologia, evoluindo continuamente e desenvolvendo soluções cada vez mais completas, com foco em qualidade, performance e impacto real.
-
----
+Frontend: HTML, CSS, JavaScript, React (em evolução)  
+Backend: Node.js (em aprendizado)  
+Outros: Firebase, WebSocket, APIs, Automação com IA
 
  📫 Contato
 
