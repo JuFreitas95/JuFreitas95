@@ -5,51 +5,71 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=25&center=true&vCenter=true&width=1000&lines=Desenvolvedora+Front-End;Apaixonada+por+tecnologia;Sempre+aprendendo+algo+novo">
 </p>
 
----
+ 👋 Olá, eu sou a Ju Freitas
 
-## 👩‍💻 Sobre mim
-Desenvolvedora em formação focada em evolução contínua e construção prática de soluções. Tenho perfil proativo e orientado à entrega, buscando sempre transformar aprendizado em projetos reais.
+💻 Desenvolvedora em formação, com foco em Frontend e evolução para Full Stack.
 
-💻 HTML, CSS, JavaScript e React
-📚 TypeScript, Node.js e automações com IA (N8N)
+Sou movida por aprendizado contínuo, disciplina e prática. Venho construindo minha jornada na tecnologia com projetos que mostram desde minha base até aplicações mais completas com integração, automação e soluções reais.
 
-🎓 Formação Frontend | Análise e Desenvolvimento de Sistemas | Full Stack em andamento
 
-🎯 Em busca de estágio ou vaga júnior para evoluir, contribuir com o time e gerar impacto através da tecnologia.
----
 
-## 🚀 Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</p>
+ 🚀 Sobre mim
+
+* 📚 Estudando HTML, CSS, JavaScript e React
+* 🚀 Iniciando com TypeScript, Node.js e Inteligência Artificial
+* 🌍 Estudando inglês para oportunidades globais
+* 🎯 Foco em crescer de desenvolvedora júnior até posições de liderança em tecnologia
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-  <img height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=JuFreitas95&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    
-  <img height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuFreitas95&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+## 🧠 Minha trajetória
+
+Minha evolução na programação:
+
+* 🎨 Primeiro contato com programação (criação de interface e estrutura)
+* 🍎 Início com JavaScript e manipulação de DOM
+* 📝 Desenvolvimento de lógica com To-do List
+* 🍔 Manipulação de dados com map, filter e reduce
+* 💱 Integração com APIs (conversor de moedas)
+* 🌦️ Aplicação com API e interface dinâmica (previsão do tempo)
+* 💬 Chat em tempo real com WebSocket
+* 🤖 Automação com IA (atendente virtual)
+* ⚡ Projeto real com cliente (captação de leads + painel admin + automação)
 
 ---
 
-## 🔥 Streak
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=JuFreitas95&theme=tokyonight&hide_border=true"/>
-</div>
+## 🧩 Projetos em destaque
+
+* ⚡ Sistema para cliente real com captação de leads e painel administrativo
+* 🤖 Automação com IA para atendimento virtual
+* 💬 Chat em tempo real com WebSocket
+* 🌦️ Aplicação com consumo de API e interface dinâmica
 
 ---
 
-## 🌐 Conecte-se comigo
-<p align="center">
-  <a href="https://www.linkedin.com/in/ju-freitas/">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</p>
+ 🛠️ Tecnologias
+
+* HTML
+* CSS
+* JavaScript
+* React (em evolução)
+* Firebase
+* WebSocket
+* Integração com APIs
+* Automação com IA
+
+---
+
+ 🎯 Objetivo
+
+Construir uma carreira sólida na área de tecnologia, evoluindo continuamente e desenvolvendo soluções cada vez mais completas, com foco em qualidade, performance e impacto real.
+
+---
+
+ 📫 Contato
+
+* LinkedIn: https://www.linkedin.com/in/ju-freitas/
+* Email: julianafreitas.dev@gmail.com
+
+
 
